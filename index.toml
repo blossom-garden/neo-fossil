@@ -251,11 +251,6 @@ hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
 metafile = true
 
 [[files]]
-file = "mods/textrues-embeddium-options.pw.toml"
-hash = "a3ff68906b92808a1e5c9a6b0d5f3539b3d8b8ffa81d4939f844469d732ffe35"
-metafile = true
-
-[[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "7dc09019c9eca43174d57b87b0b0312021bcadac4f2f755b6c06a4b94e7efae7"
 metafile = true
