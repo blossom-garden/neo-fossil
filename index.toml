@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "a66ce8fdd15abadd17b5d3d62e5bca0afe8209c081c8be1407b0e6166c8714d9"
+hash = "1030e18f2e875dfdf39de82b823e1dfe6009f21f1aaad338137d3a90504e2f7e"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-undopia-zombie-skins.pw.toml"
-hash = "26427cc5e7f82b93dd711965bae73a51736a163b0d4303091a21142c73ff922a"
+hash = "dfddea0900f4b35987c30e1af9846a5767af9edf4be0ca3d350e2f19e8d32ed7"
 metafile = true
 
 [[files]]
