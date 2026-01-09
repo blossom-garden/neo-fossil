@@ -1,0 +1,13 @@
+name = "Fresh Undopia Zombie Skins"
+filename = "§aUndopia_Zombie_Skins_FA_1.21.4_v.1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ji5MlADQ/versions/CpWX55iR/%C2%A7aUndopia_Zombie_Skins_FA_1.21.4_v.1.1.zip"
+hash-format = "sha512"
+hash = "3bfd73e9ede40bec8f468037c9c505faa15df1ab8ad5e69fff5f02eedc3f457045ce509ce4d7259cecd0ce473381405d677ffc1c0532714c7c4bc054c10e44d9"
+
+[update]
+[update.modrinth]
+mod-id = "Ji5MlADQ"
+version = "CpWX55iR"

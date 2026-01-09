@@ -1,0 +1,13 @@
+name = "More Chains"
+filename = "more-chains-1.16.x-1.20.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KyBpWu7s/versions/W9ivnJJD/more-chains-1.16.x-1.20.x.jar"
+hash-format = "sha512"
+hash = "9f4fb1fa7f1bdcb222b61b2c51edc7c2db64bd77ce488c2b43ecac6aac18d19e772e1ee38a67133788acb073e3ccbe3158b147937473ead14a0e1cf2063c0fc6"
+
+[update]
+[update.modrinth]
+mod-id = "KyBpWu7s"
+version = "W9ivnJJD"

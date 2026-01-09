@@ -1,0 +1,13 @@
+name = "Kawatt's Cheaper Lanterns"
+filename = "kawatts-cheaper-lanterns-1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/nXBHYAZp/versions/CfoPpw6C/kawatts-cheaper-lanterns-1.0.jar"
+hash-format = "sha512"
+hash = "64497ae7db170a7f8f916e8a90b7296eb2a0d7f277faa0b887a407bf97c28239b47afcd5980d7b755900c1dee1f1b1520da7644d36ad0d2773dca025fae93288"
+
+[update]
+[update.modrinth]
+mod-id = "nXBHYAZp"
+version = "CfoPpw6C"

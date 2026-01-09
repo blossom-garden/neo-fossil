@@ -1,0 +1,13 @@
+name = "Fresh Seeds"
+filename = "Fresh Seeds HMI PATCH.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/koLlIzIB/versions/RU22H2Ui/Fresh%20Seeds%20HMI%20PATCH.zip"
+hash-format = "sha512"
+hash = "244c6366695d300fa0712a560b582c7938761cbfd46aef6daaa8c6d5afc0c45563137389235a731f698c54acc94c82e35610e385952479229143f00de1273508"
+
+[update]
+[update.modrinth]
+mod-id = "koLlIzIB"
+version = "RU22H2Ui"
