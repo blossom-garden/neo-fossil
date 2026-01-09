@@ -359,19 +359,3 @@ metafile = true
 file = "resourcepacks/wisps-colourful-wildflowers.pw.toml"
 hash = "051090b5ee11bb3553056e7f74b1eec3a8fc07187e4dc5e3d75ae6baae84d4c2"
 metafile = true
-
-[[files]]
-file = "yosbr/config/skinrestorer/config.json"
-hash = "156e0d4365e3cfbb35c7748e4531a386b410685bd57967bacf9bb2dbb24a2d96"
-
-[[files]]
-file = "yosbr/icon.png"
-hash = "247dfe5bf4e6c33acadbc90e91a28d74ea25f0c1471264de2ddc0ca1a6ee7bbd"
-
-[[files]]
-file = "yosbr/options.amecsapi.txt"
-hash = "a0c1b00caf2e439e9d00644c1e31655ae32daac7af97cb25096d11ff33b7126f"
-
-[[files]]
-file = "yosbr/options.txt"
-hash = "6f1b0dc24fb1ba2532569f8c10f3789085f72ada6d099cb9f291e28352b98e71"
