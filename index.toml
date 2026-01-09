@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "import-modlist.nu"
-hash = "bb56a303cf7c6927f445be87960931637a8aef8c5942c3a7368d757bf467c0b3"
-
-[[files]]
 file = "mods/actually-harvest.pw.toml"
 hash = "5d081fa82eca0b17263382fc9fde77d668af876ae8cbdc6d92b017ad9c96f1fd"
 metafile = true
@@ -31,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/build-guide.pw.toml"
-hash = "4f6cf364cee51a515220ba9003095138b784b7215a8e43a6d9994d3a9707b926"
+hash = "6b35a0220be7bcf242e1c56c82371d237da641e7436f5a2893a2c53e60fd46cb"
 metafile = true
 
 [[files]]
@@ -80,13 +76,18 @@ hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "f0b4372343e873512d57e5ee877f37362f8dde8e75771075abe44686509294b9"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "2a5ec036147e0c0ac36f551c0f5e357afff8de395803b0dd5b6a04343e7ba1af"
+hash = "fee8d19e948a63beba2a124a7c8893a8b4271dba8520dae5048317aecf249f32"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "c61547fcb79cbc520c73374a01430c25af6ce2de258f019bd2c617b2d9bd71c7"
+hash = "450600b25bcd62b6f4193468dc9ba9b686b76edea7cb20953ba7f7651f358b90"
 metafile = true
 
 [[files]]
@@ -106,12 +107,12 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic-backport.pw.toml"
-hash = "c2fa8be6f6879ba4e815973dfb8012ff02a7e887bd4c64e91c6e4d84e23f0b76"
+hash = "084e2fffed03302952f2c95354df0cc1dddf91b8caf2372ceed4f3e5c78786a0"
 metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "17a39f71985dd963c15fe6ed5acf7cff675c7d5d0a8508a2664767c911faea51"
+hash = "7ed8af9b8f0774384b937a2fd547a0037bedea41209fd972d7b99a1bd1eaf476"
 metafile = true
 
 [[files]]
@@ -131,7 +132,12 @@ metafile = true
 
 [[files]]
 file = "mods/kawatts-cheaper-lanterns.pw.toml"
-hash = "8e8249bae41e9751a2fba3644e27a9e1aa4a98f3a576b4de4a534cb1c22f8ef8"
+hash = "7fcd736ab0a04abd56cd183190bae17ab24d73483557036fad66fed4c13adb5c"
+metafile = true
+
+[[files]]
+file = "mods/key-binding-patch.pw.toml"
+hash = "0ecb4812fff8a53ff775fe23d4c2b7e0a70d86dd1f69d18a45fcbe7d01915a76"
 metafile = true
 
 [[files]]
@@ -166,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/name-tag-backport.pw.toml"
-hash = "45469524569be4ec81f2e3999fd80a248e56300b46a0ed762b8ecadad89ee574"
+hash = "5aaaf1efa8ed6b771ba19f6318f301a67bf96ff70a32aa515403f0eb64c3977c"
 metafile = true
 
 [[files]]
@@ -353,3 +359,19 @@ metafile = true
 file = "resourcepacks/wisps-colourful-wildflowers.pw.toml"
 hash = "051090b5ee11bb3553056e7f74b1eec3a8fc07187e4dc5e3d75ae6baae84d4c2"
 metafile = true
+
+[[files]]
+file = "yosbr/config/skinrestorer/config.json"
+hash = "156e0d4365e3cfbb35c7748e4531a386b410685bd57967bacf9bb2dbb24a2d96"
+
+[[files]]
+file = "yosbr/icon.png"
+hash = "247dfe5bf4e6c33acadbc90e91a28d74ea25f0c1471264de2ddc0ca1a6ee7bbd"
+
+[[files]]
+file = "yosbr/options.amecsapi.txt"
+hash = "a0c1b00caf2e439e9d00644c1e31655ae32daac7af97cb25096d11ff33b7126f"
+
+[[files]]
+file = "yosbr/options.txt"
+hash = "6f1b0dc24fb1ba2532569f8c10f3789085f72ada6d099cb9f291e28352b98e71"
